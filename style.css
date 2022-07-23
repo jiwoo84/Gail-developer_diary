@@ -1,0 +1,19 @@
+body {
+    background-color: #CECECE;
+}
+
+.container {
+    margin: 50px;
+    display: flex;
+    background-color: #CECECE;
+}
+
+.left-box {
+    background-color: #DCE3D8;
+    width: 30%;
+}
+
+.right-box {
+    background-color: #DCE3D8;
+    width: 30%;
+}
